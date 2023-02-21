@@ -1,3 +1,3 @@
 # Cena_Construcao
 
-WebSite Cena desenvolvido com HTML | CSS | JavaScript
+WebSite Cena desenvolvido com HTML | CSS 
